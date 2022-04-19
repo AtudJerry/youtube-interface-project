@@ -1,0 +1,85 @@
+.sidebar{
+   position: fixed;
+   width: 200px;
+   overflow-y: scroll;
+   top: 0;
+   bottom: o;
+   height: 580px;
+   margin-top: 80px;
+   text-decoration: none;
+   
+
+}
+#links{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+#links:hover{
+    background-color: rgba(204, 215, 236, 0.575);
+    width: 50px;
+}
+.signin{
+    border-top-color: blue;
+    text-decoration: none;
+    margin-left: 30px;
+    background-color: white;
+    color: blue;
+    
+    
+}
+.navbar{
+    margin-left: 209px;
+    
+    margin-top: 4px;
+}
+#nav{
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: rgba(204, 215, 236, 0.575);
+    color: black;
+    padding: 15px;
+    margin-top: 30px;
+}
+table{
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+#icon{
+    margin-left: 50px;
+    margin-top: 30;
+    font-size: 30px;
+}
+
+    
+
+#search{
+    width: 550px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 86px;
+
+}
+#logo{
+
+    font-size: 34px;
+    margin-top: 0px;
+}
+.navbar{
+    
+    margin-top: 1px;
+}
+.sign{
+    margin-left: 308px;
+    text-decoration: none;
+}
+#header{
+    position: relative;
+   width: 100%;
+   
+   text-decoration: none;
+   
+   
+   
+}
